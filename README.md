@@ -1,5 +1,3 @@
-hi
-this is my first web site by github pages 
-made by me as a front end dev "beginner" with html and css 
-this is a portfolio site about me and with my knowledge
-thank you!!!!
+🖐hi
+This is my first website, created using GitHub Pages. I built it as a front-end development beginner using HTML and CSS. It's a portfolio site about me and showcases my knowledge.
+🤝thank you!!!!
