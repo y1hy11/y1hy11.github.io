@@ -6,10 +6,12 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #000000;
+    margin: 0;
+    padding: 0;
 }
 
 header {
-    padding: 1.7rem 1rem;
+    padding-left: 1rem;
     margin: 0 auto;
     background-color: transparent;
 }
